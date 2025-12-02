@@ -1,1 +1,4 @@
-
+build:
+  id: 123
+  version: 1.0.3
+  name: "prod-GIT-production-build"
